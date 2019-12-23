@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+WebReg/__init__.py
+WebReg/_exceptions.py
+WebReg/_operation.py
+WebReg/_study_list.py
+WebReg/_utils.py
+webreg.egg-info/PKG-INFO
+webreg.egg-info/SOURCES.txt
+webreg.egg-info/dependency_links.txt
+webreg.egg-info/requires.txt
+webreg.egg-info/top_level.txt
